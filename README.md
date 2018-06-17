@@ -1,4 +1,5 @@
-## RMagick
+### RMagick
+---
 
 https://github.com/rmagick/rmagick
 
